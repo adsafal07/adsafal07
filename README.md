@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I’m currently focused on building a solid foundation in Python and learning how to properly analyze data. Right now, I’m spending my time figuring out the math behind ML algorithms and getting comfortable with the standard data stack. I value clean code and honest learning over hype."<br><br>🎯 Current focus: Learning the Python fundamentals and data analysis basics.<br><br>🤝 Collaborations: Interested in simple Kaggle tasks or beginner-friendly open-source work.<br><br>🧠 Help needed: Simplifying the heavy math behind Machine Learning models.<br><br>📖 Studying: Pandas for data cleaning, Matplotlib for visuals, and basic regression.<br><br>☕ Chat about: Learning resources, Python, or being new to the field.
 
 
