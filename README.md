@@ -12,7 +12,7 @@ I’m currently focused on building a solid foundation in Python and learning ho
 ![](https://nirzak-streak-stats.vercel.app/?user=adsafal07&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adsafal07&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
